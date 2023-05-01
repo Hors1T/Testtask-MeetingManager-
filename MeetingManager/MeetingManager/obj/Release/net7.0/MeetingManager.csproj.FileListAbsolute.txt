@@ -1,0 +1,15 @@
+D:\Project\MeetingManager\MeetingManager\bin\Release\net7.0\MeetingManager.exe
+D:\Project\MeetingManager\MeetingManager\bin\Release\net7.0\MeetingManager.deps.json
+D:\Project\MeetingManager\MeetingManager\bin\Release\net7.0\MeetingManager.runtimeconfig.json
+D:\Project\MeetingManager\MeetingManager\bin\Release\net7.0\MeetingManager.dll
+D:\Project\MeetingManager\MeetingManager\bin\Release\net7.0\MeetingManager.pdb
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.csproj.AssemblyReference.cache
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.AssemblyInfoInputs.cache
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.AssemblyInfo.cs
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.csproj.CoreCompileInputs.cache
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.dll
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\refint\MeetingManager.dll
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.pdb
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\MeetingManager.genruntimeconfig.cache
+D:\Project\MeetingManager\MeetingManager\obj\Release\net7.0\ref\MeetingManager.dll
